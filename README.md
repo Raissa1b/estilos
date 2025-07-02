@@ -1,2 +1,2 @@
 # estilos
-estilos morute.
+estilo morute.
